@@ -16,7 +16,7 @@ I care a lot about the small stuff: smooth animations, clean spacing, and things
 
 ## 🚀 What I'm Building
 
-<table>
+<table> 
   <tr>
     <td width="50%" valign="top">
       <h3>Study Lab</h3>
